@@ -18,6 +18,6 @@ y=grouped.values
 fig,ax=plt.subplots()
 ax.plot(range(len(x)),y)
 print(len(x))
-
+# 更换x轴
 plt.xticks(list(range(len(x)))[::10],x[::10].astype(int),rotation=45)
 plt.show()

@@ -7,7 +7,7 @@ np.random.seed(10000000)
 mu=100
 sigma=15
 x=mu+sigma*np.random.randn(437)
-
+# y 轴
 num_bins=50
 
 fig,ax=plt.subplots()

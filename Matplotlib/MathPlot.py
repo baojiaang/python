@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+# plot multi times
 f = lambda x, a: np.cos(np.pi * a * x) * np.exp(-x)
 a_vals = np.linspace(0, 2, 10)
 x_data = np.linspace(0,5,100)
