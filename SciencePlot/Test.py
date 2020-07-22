@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-plt.style.use(['science', 'no-latex'])
+plt.style.use(['science', 'ieee','no-latex'])
 
 # 可以用 with: plt.style.context(['science','scatter'])
 # 或者 直接 plt.style.use(['science', 'no-latex'])
