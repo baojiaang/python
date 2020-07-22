@@ -1,6 +1,8 @@
 import numpy as np
 import scipy.spatial
+
 # Reverse a vector (first element becomes last)
+# arange  等步长
 # z = np.arange(50)
 # z = z[::-1]
 # print(z)
@@ -14,6 +16,7 @@ import scipy.spatial
 # print(indexes)
 
 # Create a 3x3 identity matrix
+# eye 单位矩阵
 # z = np.eye(3)
 # print(z)
 
@@ -28,6 +31,7 @@ import scipy.spatial
 # print(z)
 
 # How to get all the dates corresponding to the month of July 2016?
+#  arange 配合 datetime
 # z = np.arange('2020-01','2020-06',dtype='datetime64[D]')
 # print(z)
 
@@ -54,6 +58,7 @@ import scipy.spatial
 # print(z)
 
 # Create random vector of size 10 and replace the maximum value by 0
+# argmax argmin   最值 的索引
 # z = np.random.random(10)
 # z[z.argmax()]=1
 # print(z)
