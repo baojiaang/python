@@ -21,3 +21,6 @@
 
 ## Scipy programming ##
 [https://github.com/baojiaang/python/tree/master/Scipy](https://github.com/baojiaang/python/tree/master/Scipy)
+
+## Leetcode Solution ##
+[https://github.com/baojiaang/python/tree/master/LeetCodePythonSolution](https://github.com/baojiaang/python/tree/master/LeetCodePythonSolution)
