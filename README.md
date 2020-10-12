@@ -24,3 +24,6 @@
 
 ## Leetcode Solution ##
 [https://github.com/baojiaang/python/tree/master/LeetCodePythonSolution](https://github.com/baojiaang/python/tree/master/LeetCodePythonSolution)
+
+## Deep Learning ##
+[https://github.com/baojiaang/python/tree/master/DeepLearning](https://github.com/baojiaang/python/tree/master/DeepLearnings)
